@@ -4,3 +4,4 @@ notebooks:
     format: JUPYTER
     language: PYTHON
     path: /Running_Code.ipynb
+    publish: true
